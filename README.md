@@ -8,6 +8,5 @@ Merhaba ben Onur Biçer, Karadeniz Teknik Üniversitesi'nde Elektronik ve Haberl
 - 🌱 I’m currently learning 
   - Udemy üzerinden <a href="https://www.udemy.com/course/uygulamalarla-matlab-egitim-seti/">MATLAB</a> öğreniyorum
   - Yine Udemy üzerinden Atıl Samancıoğlu'nun [Python](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/) eğitimini tamamlıyorum
-  - Turkcell'in Geleceği Yazanlar programında da Arduino 101 derslerini alıyorum
 - ⚡ Fun fact: Seyahat etmek, bisiklet sürmek, boks yapmak...
 
