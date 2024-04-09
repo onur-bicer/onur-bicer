@@ -3,10 +3,10 @@
 ---
 
 ### Ben kimim?
-Merhaba ben Onur Biçer, Karadeniz Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği  birinci sınıf öğrencisi, kendini geliştirmek için uğraşayan bir Türk genciyim. Yazılıma ilgiyim, ileriki yıllarda projelerde yer almak için Arduino, MATLAB ve Python üzerinde çalışıyorum. Fırsat olursa savunma sanayiisinde çalışmak istiyorum. Ayrıca ağ ve sistem yöneticiliği de aklımın bir köşesinde duruyor.
+Merhaba ben Onur Biçer, Karadeniz Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği  birinci sınıf öğrencisi, kendini geliştirmek için uğraşayan bir Türk genciyim. Yazılıma ilgiyim, ileriki yıllarda projelerde yer almak için C, Arduino, MATLAB ve Python üzerinde çalışıyorum. Fırsat olursa savunma sanayiisinde çalışmak istiyorum. Ayrıca ağ ve sistem yöneticiliği de aklımın bir köşesinde duruyor.
 
 - 🌱 I’m currently learning 
   - Udemy üzerinden <a href="https://www.udemy.com/course/uygulamalarla-matlab-egitim-seti/">MATLAB</a> öğreniyorum
   - Yine Udemy üzerinden Atıl Samancıoğlu'nun [Python](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/) eğitimini tamamlıyorum
-- ⚡ Fun fact: Seyahat etmek, bisiklet sürmek, boks yapmak...
+- ⚡ Fun fact: Boks, seyahat, bisiklet sürmek...
 
