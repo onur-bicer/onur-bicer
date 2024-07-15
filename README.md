@@ -3,7 +3,7 @@
 ---
 
 ### Ben kimim?
-Merhaba ben Onur Biçer, Karadeniz Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği  2. sınıf öğrencisi, kendini geliştirmek için uğraşayan bir Türk genciyim. Yazılıma ilgiyim, ileriki yıllarda projelerde yer almak için C, Arduino, MATLAB ve Python üzerinde çalışıyorum. Fırsat olursa savunma sanayiisinde çalışmak istiyorum. Ayrıca ağ ve sistem yöneticiliği de aklımın bir köşesinde duruyor.
+Merhaba ben Onur Biçer, Karadeniz Teknik Üniversitesi'nde Elektronik ve Haberleşme Mühendisliği  2. sınıf öğrencisi, kendini geliştirmek için uğraşayan bir Türk genciyim. Yazılıma ilgiyim, ileriki yıllarda projelerde yer almak için C, Arduino, Solidworks, MATLAB ve Python üzerinde çalışıyorum. Fırsat olursa savunma sanayiisinde çalışmak istiyorum. Ayrıca ağ ve sistem yöneticiliği de aklımın bir köşesinde duruyor.
 
 - 🌱 I’m currently learning 
   - Solidworks
