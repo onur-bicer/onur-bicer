@@ -3,11 +3,10 @@
 ---
 
 ### Ben kimim?
-Karadeniz Teknik Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim. İlgili olduğum alanlar arasında devre sistemleri, temel gömülü sistemler ve sensör teknolojileri yer alıyor.
+Karadeniz Teknik Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim. İlgi alanlarım arasında devre sistemleri, gömülü sistemler ve sensör teknolojileri yer alıyor.
 
-Teknik gelişimimin yanında ekip çalışması, zaman yönetimi ve iletişim becerilerimi de üniversite kulüp faaliyetleri ve gönüllü projelerle geliştirmeye özen gösteriyorum. Amacım; mühendislik alanında donanımlı bir birey olmak ve değer üretebileceğim ortamlarda yer almak.
+Şuanda gömülü sistem sistemleri ve donanım öğrenme aşamasındayım.
 
-- 🌱 I’m currently learning 
-  - Solidworks
-- ⚡ Fun fact: Fitness, seyahat, bisiklet sürmek, dil öğrenmek...
-
+- 🌱 I’m currently learning:
+  - Cpp, Qt
+- ⚡ Fun fact: Fitness, seyahat, bisiklet sürmek, dil öğrenmek
