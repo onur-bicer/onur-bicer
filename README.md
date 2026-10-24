@@ -1,12 +1,14 @@
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0nurbicer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-bicer) 
+<img width="1584" height="396" alt="github" src="https://github.com/user-attachments/assets/937bb6f8-ec81-4bed-bf2b-7416684ff12a" />
 
 ---
 
-### Ben kimim?
-Karadeniz Teknik Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim. İlgi alanlarım arasında devre sistemleri, gömülü sistemler ve sensör teknolojileri yer alıyor.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0nurbicer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-bicer) 
 
-Şuanda gömülü sistem sistemleri ve donanım öğrenme aşamasındayım.
+### About Me
+I am a 21-year-old Turkish student, born and raised in Niğde, and currently studying Electronics and Communication Engineering at Karadeniz Technical University.  
+My main focus is on embedded systems, and my ultimate goal is to build a career in the automotive industry <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" height="20" align="absmiddle" alt="BMW" />.  
+I am currently improving my skills in embedded development to create smart, next-generation solutions for vehicles.
 
-- 🌱 I’m currently learning:
-  - Cpp, Qt
-- ⚡ Fun fact: Fitness, seyahat, bisiklet sürmek, dil öğrenmek
+- 🌱 **I’m currently learning:** <img src="https://skillicons.dev/icons?i=cpp,qt" height="24" align="absmiddle" />
+- ⚡ **Fun fact:** I enjoy fitness, traveling, cycling, and learning new languages!
+- 🗣️ **Languages:** <img src="https://flagcdn.com/w20/tr.png" height="16" align="absmiddle" alt="Turkish" /> Turkish (Native), <img src="https://flagcdn.com/w20/gb.png" height="16" align="absmiddle" alt="English" /> English (B2)
