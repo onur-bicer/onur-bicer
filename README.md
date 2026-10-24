@@ -10,5 +10,5 @@ My main focus is on embedded systems, and my ultimate goal is to build a career 
 I am currently improving my skills in embedded development to create smart, next-generation solutions for vehicles.
 
 - 🌱 **I’m currently learning:** <img src="https://skillicons.dev/icons?i=cpp,qt" height="24" align="absmiddle" />
-- ⚡ **Fun fact:** I enjoy fitness, traveling, cycling, and learning new languages!
+- ⚡ **Fun fact:** I enjoy fitness 🏋️‍♂️, traveling ✈️, cycling 🚴‍♂️, gaming <img src="https://cdn.simpleicons.org/counterstrike/F26D00" height="20" align="absmiddle" alt="CS2" />, and learning new languages 🌍!
 - 🗣️ **Languages:** <img src="https://flagcdn.com/w20/tr.png" height="16" align="absmiddle" alt="Turkish" /> Turkish (Native), <img src="https://flagcdn.com/w20/gb.png" height="16" align="absmiddle" alt="English" /> English (B2)
